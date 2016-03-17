@@ -1,0 +1,3 @@
+
+excludeFiles = "{ventus-app.log, bundle.js, bundle.js.map}"
+excludeDirectories = "{data,node_modules,static,build}"
